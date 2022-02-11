@@ -9,6 +9,7 @@ djangorestframework = "*"
 pylint = "*"
 autopep8 = "*"
 psycopg2-binary = "*"
+requests = "*"
 
 [dev-packages]
 
