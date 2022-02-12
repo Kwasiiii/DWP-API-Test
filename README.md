@@ -6,11 +6,11 @@ Using the language of your choice please build your own API which calls the API 
 This API was built using Python/Django framework.
 
 ### To Run
-From root directory to run the following command to pipevn shell to run server:
+From root directory, run the following command to pipevn shell to run server:
 
+ - pipenv shell
  - pip install -r requirements.txt (to install all packages if needed)
- -   pipenv shell
- -   python manage.py runserver
+ - python manage.py runserver
 
 ## How to use
 After the server is up and running use http://localhost:8000/ with the following endpoint;
